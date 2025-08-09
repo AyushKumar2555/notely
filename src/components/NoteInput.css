@@ -1,0 +1,18 @@
+.note-input {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.note-input input {
+  width: 60%;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.note-input button {
+  padding: 8px 12px;
+  font-size: 16px;
+  cursor: pointer;
+}
